@@ -18,6 +18,7 @@ public class ArrayListProgram {
 		Collections.reverse(array);*/
 		Collections.sort(array, Collections.reverseOrder());
 		System.out.println("After Sorting the array in desc is  "+array);
+		System.out.println("After Sorting the array in desc is  ");
 		/*Collections.reverse(array);
 		System.out.println("After Sorting the array in descending order "+array);*/
 
