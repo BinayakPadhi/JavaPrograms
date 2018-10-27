@@ -19,6 +19,7 @@ public class ArrayListProgram {
 		Collections.sort(array, Collections.reverseOrder());
 		System.out.println("After Sorting the array in desc is  "+array);
 		System.out.println("After Sorting the array in desc is  ");
+		System.out.println("Changed in GIT");
 		/*Collections.reverse(array);
 		System.out.println("After Sorting the array in descending order "+array);*/
 
