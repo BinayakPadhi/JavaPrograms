@@ -12,6 +12,7 @@ public class ArrayListProgram {
 		array.add(10);
 		array.add(20);
 		array.add(1,15);
+		array.add(2,20);
 		array.add(5);
 		array.add(17);
 		System.out.println("Before Sorting the array is "+array);
