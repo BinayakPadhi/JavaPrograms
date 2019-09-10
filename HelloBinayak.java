@@ -10,11 +10,7 @@ public class HelloBinayak {
 		 	System.out.println("New Addition Method XYZ");
 	
 		}
-		public void multi(){
-		 	System.out.println("New Multipliction Method Added");
-	
-		}
-
+		
 	}
 
 }
