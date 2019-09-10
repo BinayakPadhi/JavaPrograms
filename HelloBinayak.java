@@ -7,7 +7,7 @@ public class HelloBinayak {
 		
 		System.out.println("Hello Binayak");
 		public void addition(){
-		 	System.out.println("New Addition Method Added");
+		 	System.out.println("New Addition Method XYZ");
 	
 		}
 		public void multi(){
